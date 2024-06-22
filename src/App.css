@@ -1,0 +1,29 @@
+.navclr{
+    color: white;
+}
+
+
+.navclr :hover{
+    color: yellow;
+}
+
+
+.foodlist {
+    padding: 10px;
+    border: 1px solid #ccc;
+margin-bottom: 5px;
+    font-weight: 500;
+  }
+  
+  .foodlist p {
+    margin: 0;
+  }
+  
+  .bold{
+    font-weight: bold;
+
+  }
+
+  .tot{
+    margin-left: 70%;
+  }
